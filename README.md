@@ -1,4 +1,4 @@
-                                                                              Word Guessing Game Instructions
+.Word Guessing Game Instructions.
 
 .Start the Game:
 The program will greet you and ask for your name. Enter your name to start the game.
@@ -20,4 +20,4 @@ Whether you win or lose, the game will end after you've made your guesses.
 
 If you'd like to play again, you can simply run the program again to start a new round.
 
-                                                                                    Have Fun!!!
+Have Fun!!!
